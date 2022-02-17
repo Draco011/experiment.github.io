@@ -1,0 +1,72 @@
+@charset "uft-8";
+
+body {
+    margin: 50px;
+    background-image: ("Anime-Background.jpg");
+    background-image: no-repeat;
+    background-size: cover;
+}
+
+section {
+  border: solid;
+  padding: 3%;
+  margin: 0px;
+  background-color: rgba(0, 100, 150, 0.4);
+}
+
+div {
+  padding: 1%;
+  margin-left: 50px;
+}
+
+header {
+    margin: 50px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+nav {
+  float: left;
+  width: 180px;
+  padding: 10px 30px 10px 0px;
+}
+
+nav ol {
+  margin: 0px;
+  margin-left: 5px;
+  list-style-type: none;
+}
+
+nav li {
+  background-color: black;
+  margin-right: 5px;
+  margin-botom: 5px;
+  margin-top: 5px;
+  padding: 1%;
+  border: solid;
+  border-color:white;
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
+
+aside {
+  max-width: 800px;
+  height: 300px;
+  background-color: black;
+  border: solid;
+  padding: 2%;
+  color: white;
+}
+
+h4 {
+  margin-left: -30px;
+}
+
+h5 {
+  margin-left: -30px;
+}
