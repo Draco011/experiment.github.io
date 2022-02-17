@@ -55,12 +55,16 @@ footer {
 }
 
 aside {
-  max-width: 800px;
   height: 300px;
   background-color: black;
   border: solid;
   padding: 2%;
   color: white;
+}
+
+aside img {
+  max-width: 800px;
+  max-height: 300px;
 }
 
 h4 {
