@@ -1,7 +1,8 @@
 @charset "uft-8";
 
 body {
-  background-image: url("watchList.jpg")
+  background-image: url("watchList.jpg");
+  background-image: url("watchedList.jpg");
 }
 
 section {
