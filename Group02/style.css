@@ -3,7 +3,8 @@
 body {
   background-image: url("watchList.jpg");
   background-image: no-repeat;
-  background-image: url("watchedList.jpg");
+  background-attachment: fixed;
+  background-size: cover;
 }
 }
 
