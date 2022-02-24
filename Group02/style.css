@@ -1,7 +1,45 @@
+@charset "uft-8";
+
 body {
-    margin: 50px;
-    background-image: url("anime-background.jpg");
-    background-image: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+  background-image: url("")
+}
+
+section {
+  border: solid;
+  padding: 1%;
+  margin: 30px;
+  background-color: rgba(0, 100, 150, 0.4);
+  box-shadow: 10px 10px 7.5px gray;
+}
+
+article {
+  margin-left: 15px;
+}
+
+article ol {
+  line-height: 150%;
+}
+
+header {
+  text-align: center;
+  margin: 30px;
+  text-shadow: 5px 5px 3px gray;
+}
+
+nav {
+  float: right;
+  width: 400px;
+  background-color: rgba(0, 300, 150, 0.4);
+  margin: 5px;
+  padding: 3px;
+  border: solid;
+}
+nav ol {
+  line-height: 150%;
+}
+
+aside {
+  border: solid;
+  margin: 5px;
+  padding: 1%;
 }
