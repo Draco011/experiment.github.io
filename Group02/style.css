@@ -13,6 +13,7 @@ section {
   margin: 30px;
   background-color: rgba(0, 100, 150, 0.4);
   box-shadow: 10px 10px 7.5px gray;
+  text-shadow: 10px 10px 7.5px gray;
 }
 
 article {
@@ -36,6 +37,7 @@ nav {
   margin: 5px;
   padding: 3px;
   border: solid;
+  box-shadow: 10px 10px 7.5px gray;
 }
 nav ol {
   line-height: 150%;
