@@ -11,7 +11,7 @@ section {
   border: solid;
   padding: 1%;
   margin: 30px;
-  background-color: rgba(255, 0, 50, 0.7);
+  background-color: rgba(255, 0, 50, 0.25);
   box-shadow: 10px 10px 7.5px gray;
   text-shadow: 10px 10px 2px gray;
 }
