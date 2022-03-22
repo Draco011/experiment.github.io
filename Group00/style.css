@@ -52,6 +52,11 @@ aside {
   Width: 475px;
 }
 
+aside img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
 nav {
   height: 80px;
   flex: 100%;
