@@ -25,7 +25,8 @@ header {
 
 #lists {
   width: 500px;
-  color: #2B2D2F;
+  background-color: rgba(255, 255, 255, 0.75);
+  color: black;
 }
 
 #lists li {
